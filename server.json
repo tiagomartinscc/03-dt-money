@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2024-05-12T10:47:21.935Z"
+    },
+    {
+      "description": "Dev Speak",
+      "category": "Educação",
+      "price": 350,
+      "type": "outcome",
+      "createdAt": "2024-09-10T08:57:51.250Z",
+      "id": 4
+    },
+    {
+      "description": "Manutenção STTHFI",
+      "price": 550,
+      "category": "Serviços de TI",
+      "type": "income",
+      "createdAt": "2024-09-10T09:13:56.850Z",
+      "id": 5
     }
   ]
 }
